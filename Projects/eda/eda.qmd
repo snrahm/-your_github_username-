@@ -1,0 +1,25 @@
+---
+title: "My EDA Project"
+description: "This is my summer 2025 EDA Project"
+date: "June 2025"
+resources: "."
+about: 
+  template: solana
+  image: cover.jpg
+  links: 
+    - icon: github
+      text: "GitHub"
+      href: "https://github.com/merismce/CapstoneProject_CMU25"
+    - icon: easel
+      text: "Slides"
+      href: "https://docs.google.com/presentation/d/1J5WbDZkUeBSaXFfhxHu1P1j1a4cUsueeWaXv5o5G55E/edit?usp=sharing" 
+---
+
+This is my EDA project... 
+
+Some info...
+
+```{r}
+hist(rnorm(100))
+```
+
