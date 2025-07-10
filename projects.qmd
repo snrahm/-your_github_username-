@@ -1,0 +1,12 @@
+---
+title: "Projects"
+listing: 
+  contents: Projects  # name of the folder
+  type: default
+  sort: 
+    - "date"
+    - "title desc"
+---
+
+About this site
+

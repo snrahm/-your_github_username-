@@ -1,0 +1,35 @@
+project:
+  type: website
+  resources: assets
+
+website:
+  title: "Saima Rahman"
+  navbar:
+    background: "#5D3FD3"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Project
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/saima-rahman-82b338295/
+        target: blank
+      - icon: cash
+        href: https://www.venmo.com/
+      - icon: github
+        href: https://github.com 
+      - icon: file-pdf
+        href: assets/Saima Rahman Resume_copy.pdf
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+execute: 
+  freeze: auto
+

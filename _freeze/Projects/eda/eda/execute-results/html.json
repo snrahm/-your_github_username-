@@ -1,0 +1,17 @@
+{
+  "hash": "22688d2c942a89c1ab43008d3974f2c2",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"My EDA Project\"\ndescription: \"This is my summer 2025 EDA Project\"\ndate: \"June 2025\"\nresources: \".\"\nabout: \n  template: solana\n  image: cover.jpg\n  links: \n    - icon: github\n      text: \"GitHub\"\n      href: \"https://github.com/merismce/CapstoneProject_CMU25\"\n    - icon: easel\n      text: \"Slides\"\n      href: \"https://docs.google.com/presentation/d/1J5WbDZkUeBSaXFfhxHu1P1j1a4cUsueeWaXv5o5G55E/edit?usp=sharing\" \n---\n\n\n\nThis is my EDA project... \n\nSome info...\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\nhist(rnorm(100))\n```\n\n::: {.cell-output-display}\n![](eda_files/figure-html/unnamed-chunk-1-1.png){width=672}\n:::\n:::\n",
+    "supporting": [
+      "eda_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

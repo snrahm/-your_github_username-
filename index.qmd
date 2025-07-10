@@ -1,0 +1,17 @@
+---
+title: "Saima Rahman"
+about:
+  template: jolla
+  image: assets/Screen Shot 2025-07-09 at 10.28.11 AM.png
+  links:
+    - icon: envelope
+      text: Email
+      href: snrahm26@colby.edu
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+Welcome to my website! I am a final year undergrad at Colby College, studying Statistics and Chemistry.
+
+I'm interested in the bridge between the medical field and data analysis, getting both sides of the hands-on lab experience as well as the results to understand after. 
